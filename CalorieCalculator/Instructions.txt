@@ -1,0 +1,37 @@
+﻿
+DESCRIPTION
+----------------------------------------------
+CalorieCalculator is a simple library that calculates a person's ideal body weight and 
+daily recommended caloric intake based on sex, age, height and weight. 
+
+A test harness (Program.cs) has been written to exercise and test the public API (Calc.cs). 
+It runs the caluation, saves it, and retrieve the entire calculation history.
+
+
+REFACTOR THE APPLICATION
+----------------------------------------------
+Your manager was not very pleased with the intial implementation of this library and has
+instructed you to have a look and offer up your suggestions for improvement. Specifically, 
+he wants to know what needs to be done to transform this into a more decoupled, maintainable 
+Object-Oriented design. He informs you that THE EXISTING PUBLIC API (CalorieCalculator.API)
+SHOULD NOT CHANGE for systems that already use this API today.  
+
+
+INSTRUCTIONS
+----------------------------------------------
+Please complete one of the following options. Our preference is for you to directly
+refactor this code. However, if time does not permit, option 2 is acceptable but you should 
+be very specific in terms of your proposed system design and domain object model. 
+
+Option 1 (PREFERRED) : Refactor this code directly.
+
+Option 2 : Describe how you would re-design the system. Be very specific with a supporting 
+		   system design and object domain model (please provide UML class diagrams).
+		   
+
+
+PREFERRED DEVELOPMENT ENVIRONMENT / PROGRAMMING LANGUAGE
+---------------------------------------------------------
+If you do not have Visual Studio or are not comfortable with .NET/C#, any platform or
+language will suffice. Again, we are more interested in your design approach and less about the low level 
+implementation details of the code. 			

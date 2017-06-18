@@ -1,0 +1,10 @@
+\\dept01nas\Medical\BloodyScrummers\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.exe.config
+C:\Users\manju\Desktop\AtHomeExercises\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.exe.config
+C:\Users\manju\Desktop\AtHomeExercises - Copy\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.exe.config
+C:\Users\manju\Desktop\AtHomeExercises - Copy\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.exe
+C:\Users\manju\Desktop\AtHomeExercises - Copy\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCounter.TestHarness.pdb
+C:\Users\manju\Desktop\AtHomeExercises - Copy\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCalculator.API.dll
+C:\Users\manju\Desktop\AtHomeExercises - Copy\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\bin\Debug\CalorieCalculator.API.pdb
+C:\Users\manju\Desktop\AtHomeExercises - Copy\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\manju\Desktop\AtHomeExercises - Copy\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.exe
+C:\Users\manju\Desktop\AtHomeExercises - Copy\RefactoringExercise\CalorieCalculator\CalorieCounter.TestHarness\obj\Debug\CalorieCounter.TestHarness.pdb

@@ -1,0 +1,4 @@
+C:\Users\manju\Desktop\AtHomeExercises - Copy\RefactoringExercise\CalorieCalculator\CalorieCalculator.API\bin\Debug\CalorieCalculator.API.dll
+C:\Users\manju\Desktop\AtHomeExercises - Copy\RefactoringExercise\CalorieCalculator\CalorieCalculator.API\bin\Debug\CalorieCalculator.API.pdb
+C:\Users\manju\Desktop\AtHomeExercises - Copy\RefactoringExercise\CalorieCalculator\CalorieCalculator.API\obj\Debug\CalorieCalculator.API.dll
+C:\Users\manju\Desktop\AtHomeExercises - Copy\RefactoringExercise\CalorieCalculator\CalorieCalculator.API\obj\Debug\CalorieCalculator.API.pdb

@@ -1,0 +1,12 @@
+<PatientsHistory>
+  <patient ssn="123-33-1234" firstName="Bob" lastName="Smith">
+    <measurement date="6/17/2017 1:41:55 PM">
+      <height>6010</height>
+      <weight>250</weight>
+      <age>33</age>
+      <dailyCaloriesRecommended>2319.6</dailyCaloriesRecommended>
+      <idealBodyWeight>160.9358</idealBodyWeight>
+      <distanceFromIdealWeight>89.0642</distanceFromIdealWeight>
+    </measurement>
+  </patient>
+</PatientsHistory>
