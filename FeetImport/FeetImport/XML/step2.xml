@@ -1,0 +1,38 @@
+<Fleet>
+	<NickName>City of San Diego Vehicle Fleet</NickName>
+	<Country>United States</Country>
+<Vehicles>
+<Bus>
+	<VinNumber>75644444335434516</VinNumber>
+	<LicensePlateNumber>4BH241</LicensePlateNumber>
+	<Year>1991 </Year>
+	<Make>Ford</Make>
+	<Model>Econline </Model>
+</Bus >
+<Truck>
+	<VinNumber>23124124654433511</VinNumber>
+	<LicensePlateNumber>9342BX</LicensePlateNumber>
+	<Year>2004 </Year>
+	<Make>Toyota</Make>
+	<Model>Tundra</Model>
+</Truck>
+<Motorcycle>
+	<VinNumber>52543463463234534</VinNumber>
+	<LicensePlateNumber>1WST32</LicensePlateNumber>
+	<Year>2008 </Year>
+	<Make>Kawasaki</Make>
+	<Model>Ninja</Model>
+</Motorcycle>
+  <Boat>
+	<VinNumber>52543463463234534</VinNumber>
+	<NauticalRegistrationNumber>123-124XJHDGSGD</NauticalRegistrationNumber>
+	<Year>2012 </Year>
+	<Make>SeaForce</Make>
+	<Model>UltraHi</Model>
+  <Model>UltraHi</Model>
+  <Type>Motor</Type>
+  </Boat>
+
+</Vehicles>
+</Fleet>
+

@@ -1,0 +1,35 @@
+<Fleet>
+	<NickName>City of San Diego Vehicle Fleet</NickName>
+	<Vehicles>
+<Bus>
+	<Year>1991 </Year>
+	<Make>Ford</Make>
+	<Model>Econline </Model>
+</Bus>
+<Truck>
+	<Year>2004 </Year>
+	<Make>Toyota</Make>
+	<Model>Tundra</Model>
+</Truck>
+<Motorcycle>
+	<Year>2008 </Year>
+	<Make>Kawasaki</Make>
+	<Model>Ninja</Model>
+</Motorcycle>
+<Boat>
+	<Year>2012 </Year>
+	<Make>SeaForce</Make>
+	<Model>UltraHi</Model>
+	<Type>Motor</Type>
+</Boat>
+<Boat>
+	<Year>2000 </Year>
+	<Make>WindForce</Make>
+	<Model>UltraHi</Model>
+	<Type>Sail</Type>
+</Boat>
+
+
+</Vehicles>
+</Fleet>
+

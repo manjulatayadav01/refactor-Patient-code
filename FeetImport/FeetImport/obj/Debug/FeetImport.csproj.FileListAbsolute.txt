@@ -1,0 +1,14 @@
+c:\users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\bin\Debug\FeetImport.exe.config
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\bin\Debug\FeetImport.exe
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\bin\Debug\FeetImport.pdb
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\obj\Debug\FeetImport.csprojResolveAssemblyReference.cache
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\obj\Debug\MainWindow.g.cs
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\obj\Debug\App.g.cs
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\obj\Debug\FeetImport_MarkupCompile.cache
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\obj\Debug\FeetImport_MarkupCompile.lref
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\obj\Debug\MainWindow.baml
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\obj\Debug\FeetImport.g.resources
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\obj\Debug\FeetImport.Properties.Resources.resources
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\obj\Debug\FeetImport.csproj.GenerateResource.Cache
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\obj\Debug\FeetImport.exe
+C:\Users\manju\documents\visual studio 2015\Projects\FeetImport\FeetImport\obj\Debug\FeetImport.pdb

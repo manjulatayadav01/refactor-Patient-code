@@ -1,0 +1,183 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Fleet">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="NickName"/>
+        <xs:element name="Country"/>
+        <xs:element name="Vehicles">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Bus">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="VinNumber">
+			<xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="[A-HJ-NPR-Z0-9]{13}[0-9]{4}"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="LicensePlateNumber">
+                    <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="[A-HJ-NPR-Z0-9]{13}[0-9]{4}"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="Year">
+                     <xs:simpleType>
+                            <xs:restriction base="xs:int">
+                              <xs:totalDigits value="4"/>
+                           </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="Make">		    
+                     <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="^[a-zA-Z][a-zA-Z0-9]*$"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="Model">
+                     <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="^[a-zA-Z][a-zA-Z0-9]*$"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Truck">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="VinNumber">
+			<xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="[A-HJ-NPR-Z0-9]{13}[0-9]{4}"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="LicensePlateNumber">
+                    <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="[A-HJ-NPR-Z0-9]{13}[0-9]{4}"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="Year">
+                     <xs:simpleType>
+                            <xs:restriction base="xs:int">
+                              <xs:totalDigits value="4"/>
+                           </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="Make">		    
+                     <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="^[a-zA-Z][a-zA-Z0-9]*$"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="Model">
+                     <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="^[a-zA-Z][a-zA-Z0-9]*$"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Motorcycle">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="VinNumber">
+			<xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="[A-HJ-NPR-Z0-9]{13}[0-9]{4}"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="LicensePlateNumber">
+                    <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="[A-HJ-NPR-Z0-9]{13}[0-9]{4}"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="Year">
+                     <xs:simpleType>
+                            <xs:restriction base="xs:int">
+                              <xs:totalDigits value="4"/>
+                           </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="Make">		    
+                     <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="^[a-zA-Z][a-zA-Z0-9]*$"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="Model">
+                     <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="^[a-zA-Z][a-zA-Z0-9]*$"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Boat">		
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="VinNumber">
+			<xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="[A-HJ-NPR-Z0-9]{13}[0-9]{4}"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element> 
+		    <xs:element name="NauticalRegistrationNumber">
+                    
+		    </xs:element>
+                    <xs:element name="Year">
+                     <xs:simpleType>
+                            <xs:restriction base="xs:int">
+                              <xs:totalDigits value="4"/>
+                           </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="Make">		    
+                     <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="^[a-zA-Z][a-zA-Z0-9]*$"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element>
+                    <xs:element name="Model">
+                     <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="^[a-zA-Z][a-zA-Z0-9]*$"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element> 
+                    <xs:element name="Type">
+		     <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                             <xs:pattern value="^[a-zA-Z][a-zA-Z0-9]*$"/>
+                        </xs:restriction>
+                    </xs:simpleType>
+		    </xs:element> 
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
